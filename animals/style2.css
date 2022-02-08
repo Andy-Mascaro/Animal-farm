@@ -1,4 +1,4 @@
-/* body {
+body {
     --color1: #2e3436;
     --color3: #fbe85d;
     --color2: #edb6a3;
@@ -9,5 +9,5 @@
 }
 
 .animal-detail {
-    height:5px;
-} */
+    height: 100px;
+}
