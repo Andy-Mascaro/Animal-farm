@@ -1,5 +1,5 @@
-import {animals} from '../data.js';
-import {findById} from '../utils.js';
+import { animals } from '../data.js';
+import { findById } from '../utils.js';
 
 const animalName = document.getElementById ('animal-name');
 const animalImage = document.getElementById ('animal-image');
