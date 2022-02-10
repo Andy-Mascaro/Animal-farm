@@ -1,4 +1,4 @@
-body {
+/* body {
     --color1: #2e3436;
     --color3: #fbe85d;
     --color2: #edb6a3;
@@ -7,3 +7,7 @@ body {
     --header-height: 40px;
     font-family: 'Fredoka One', cursive;
 }
+
+.animal-detail {
+    height:5px;
+} */
